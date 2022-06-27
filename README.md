@@ -9,4 +9,5 @@ Solutions in Python for the problems of Daily Coding Problem.
 
 |  ##  | Description                      | Solution                      |
 |------|----------------------------------|-------------------------------|
-| 0001 | Sum of two numbers               | [solution](solutions/0001.py) |
+| 0001 | Sum of two numbers in list       | [solution](solutions/0001.py) |
+| 0002 | Prod of all numbers in list      | [solution](solutions/0002.py) |
