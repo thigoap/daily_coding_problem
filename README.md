@@ -13,3 +13,4 @@ Solutions in Python for the problems of Daily Coding Problem.
 | 0002 | Prod of all numbers in list      | [solution](solutions/0002.py) |
 | 0003 |                                  |                               |
 | 0004 | Find missing positive in list    | [solution](solutions/0004.py) |
+| 0005 | Function Inception               | [solution](solutions/0005.py) |
